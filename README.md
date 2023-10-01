@@ -19,14 +19,14 @@
 
 ## Topics covered during this todo app
 
--[x] JSX
+- [x] JSX
 
--[x] React Components
+- [x] React Components
 
--[x] Props
+- [x] Props
 
--[x] useState
+- [x] useState
 
--[x] [local storage](https://github.com/imdariful/todo-react/commit/647457a10b2aa69964bdc0d7782acae2d85961f1)
+- [x] [local storage](https://github.com/imdariful/todo-react/commit/647457a10b2aa69964bdc0d7782acae2d85961f1)
 
--[x] [useRef](https://github.com/imdariful/todo-react/commit/46d04ba8840e570b40d8e3ea1a212077e4b83f1f)
+- [x] [useRef](https://github.com/imdariful/todo-react/commit/46d04ba8840e570b40d8e3ea1a212077e4b83f1f)
