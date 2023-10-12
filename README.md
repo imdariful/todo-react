@@ -1,6 +1,6 @@
 # React Todo
 
-## File structure in src
+## File structure in src 
 
 ```
 |-- src
